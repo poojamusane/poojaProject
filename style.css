@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.active:hover
+{
+   background: rgb(176, 69, 20);
+   border-radius: 1px;
+}
+.menubar
+{
+    background-color: rgb(27, 133, 133);
+    border-radius: 1px;
+}
+.sub_menubar
+{
+    display: none;
+}
+.sub_menubar1.sub_menubar
+{
+    display: block;
+    position: absolute;
+   
+    margin-top: 15px;
+    margin-left: -15;
+}
+.list
+
+
+{
+    display:block;
+    margin: 10px;
+}
+
+
+
+head{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-size: medium;
+    position: relative;
+    font-display: center}
+
+   .o1
+    {
+        background-color: aqua;
+        background: aqua;
+    }
